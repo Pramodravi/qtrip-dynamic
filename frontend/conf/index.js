@@ -1,5 +1,5 @@
 
-// const config = { backendEndpoint: "https://qtrip-dynamic-varoon.herokuapp.com" };
-const config = { backendEndpoint: "http://localhost:8082" };
+
+const config = { backendEndpoint: "https://qtrip-dynamic-9kn3.onrender.com" };
 
 export default config;
